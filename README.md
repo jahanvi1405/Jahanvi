@@ -81,7 +81,7 @@ Become a Software Engineer and AI Developer while building impactful projects.
 
 ## 🎯 Goals for 2026
 
-- ✅ Solve 300+ LeetCode Problems
+- ✅ Solve more DSA Problems
 - ✅ Master MERN Stack
 - ✅ Build Full Stack Projects
 - ✅ Contribute to Open Source
@@ -96,7 +96,9 @@ Become a Software Engineer and AI Developer while building impactful projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jahanvi1405)
 
-📧 **Email:** jahanvisingh1405@gmail.com
+[![Codolio](https://img.shields.io/badge/Codolio-4A90E2?style=for-the-badge)](https://codolio.com/profile/jahanvi14)
+
+📧 **Email:** [jahanvisingh1405@gmail.com](mailto:jahanvisingh1405@gmail.com)
 
 ---
 

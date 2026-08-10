@@ -46,15 +46,23 @@ Become a Software Engineer and AI Developer while building impactful projects.
 
 ## # 🚀 Featured Projects
 
-* 📚 **Library Management System** – Python-based application for managing books and records.
-* 💰 **Expense Tracker** – Responsive web app to track income, expenses, and balance using JavaScript.
-* 🚕 **Uber Clone Frontend** – Responsive UI inspired by Uber using HTML and CSS.
-* 🎮 **Mario Card Game** – Interactive memory card game built with JavaScript.
-* 🔨 **Whack-a-Mole Game** – Fun browser game using HTML, CSS, and JavaScript.
-* 🎬 **Studio Namma Clone** – Responsive landing page clone focusing on modern layouts and UI design.
-* 🟦 **CSS Grid Practice** – Collection of responsive layouts built using CSS Grid to strengthen layout fundamentals.
-* ⏱️ **Counter & Slideshow Practice** – JavaScript mini project featuring a countdown timer and automatic image slideshow.
+- 🌦️ **Weather App** – Responsive weather application built with HTML, CSS, and JavaScript, featuring real-time weather data, city search, current-location weather, forecasts, dynamic backgrounds, weather effects, and sunrise/sunset information.
 
+- 📚 **Library Management System** – Python-based application for managing books, records, and library operations.
+
+- 💰 **Expense Tracker** – Responsive web app for tracking income, expenses, and overall balance using JavaScript.
+
+- 🚕 **Uber Clone Frontend** – Responsive frontend inspired by Uber, built with HTML and CSS with a focus on modern layouts and user interface design.
+
+- 🎮 **Mario Card Game** – Interactive memory card game built with HTML, CSS, and JavaScript.
+
+- 🔨 **Whack-a-Mole Game** – Fun interactive browser game developed using HTML, CSS, and JavaScript.
+
+- 🎬 **Studio Namma Clone** – Responsive landing page clone focused on modern layouts, styling, and UI design.
+
+- 🟦 **CSS Grid Practice** – Collection of responsive layouts created using CSS Grid to strengthen modern CSS layout fundamentals.
+
+- ⏱️ **Counter & Slideshow Practice** – JavaScript mini-project combining a countdown timer and automatic image slideshow to practice DOM manipulation and event handling.
 
 
 ---
